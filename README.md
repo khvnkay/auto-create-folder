@@ -9,7 +9,7 @@ macOs
 
 windows 
 
-- powershell C:\Projects\TNS\AutoFolder\AutoFodler.ps1 C:\Projects\TNS\AutoFolder\table1.csv C:\Projects\TNS\AutoFolder C:\Projects\TNS\AutoFolder\hometest
+- powershell C:\Projects\TNS\AutoFolder\AutoFodler.ps1 C:\Projects\TNS\AutoFolder\table1.csv C:\Projects\TNS\AutoFolder C:\Projects\TNS\AutoFolder\hometest\
 
 csv format 
 
