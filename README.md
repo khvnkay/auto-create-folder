@@ -17,6 +17,9 @@ csv format
 2	PAT	0	
 3	PATd	0	
 3.1	Lkl	3	 -->
+
+
+
 | id | name  | parent  | copyFrom |
 |   0 | auto-create-folder |  |  "/home/folder1" |
 | 1   | PARTB | 0 |  "/home/folder1" |
