@@ -9,11 +9,11 @@ macOs
 
 windows 
 
-- powershell C:\Projects\TNS\AutoFolder\AutoFodler.ps1 C:\Projects\TNS\AutoFolder\table1.csv C:\Projects\TNS\AutoFolder C:\Projects\TNS\AutoFolder\hometest
+- powershell C:\Projects\TNS\AutoFolder\AutoFodler.ps1 C:\Projects\TNS\AutoFolder\table1.csv C:\Projects\TNS\AutoFolder C:\Projects\TNS\AutoFolder\hometest\
 
 csv format 
 
-| 0   | auto-create-folder  | #1      |  "/home/folder1"  |
+| 0   | auto-create-folder  |    |  "/home/folder1"  |
 | :---:   | :-: | :-: | :-: |
 | 1   | PARTB               | 0       |  "/home/folder1"  |
 | 2   | PARTC               | 0       |   "/home/folder1" |
