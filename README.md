@@ -11,24 +11,6 @@ macOs
 
 csv format 
 
-<!-- id	name	parent	copyFrom
-0	auto-create-folder		
-1	PART B	0	
-2	PAT	0	
-3	PATd	0	
-3.1	Lkl	3	 -->
-
-| Attempt | #1  | #2  |
-| :---:   | :-: | :-: |
-| Seconds | 301 | 283 |
-
-| id  | name                | parent  | copyFrom          |
-| id  | name                | parent  | copyFrom          |
-
-
-
-
-
 | 0   | auto-create-folder  | #1      |  "/home/folder1"  |
 | :---:   | :-: | :-: | :-: |
 | 1   | PARTB               | 0       |  "/home/folder1"  |
