@@ -1,6 +1,8 @@
 id,name,parent,copyFrom
-0,auto-create-folder,,
-1,PART B,0,
-2,PAT,0,
-3,PATd,0,
-3.1,Lkl,3,
+1,Lkl,0,
+2,K,0,
+1.1,1.1,1,
+1.2,1.2,1,
+2.1,2.1,2,
+3,3,0,
+4.1,4.1,0,
