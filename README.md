@@ -18,7 +18,7 @@ id	name	parent	copyFrom
 3	PATd	0	
 3.1	Lkl	3	
 | id | name  | parent  | copyFrom |
-|    | auto-create-folder |  |  /home/folder1 |
+|   0 | auto-create-folder |  |  /home/folder1 |
 | 1   | PARTB | 0 |  /home/folder1 |
 | 2   | PARTC | 0 |  /home/folder1 |
 | 3   | PARTD | 0 |  /home/folder1 |
