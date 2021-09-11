@@ -7,7 +7,9 @@ how to
 macOs
 - pwsh -File ./AutoFodler.ps1  ./config.csv  ../
 
+windows 
 
+- powershell C:\Projects\TNS\AutoFolder\AutoFodler.ps1 C:\Projects\TNS\AutoFolder\table1.csv C:\Projects\TNS\AutoFolder C:\Projects\TNS\AutoFolder\hometest
 
 csv format 
 
